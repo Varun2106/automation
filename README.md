@@ -1,2 +1,2 @@
 # automation
-Automated test cases 
+Automated test cases - practice
